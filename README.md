@@ -1,1 +1,3 @@
-# goBarber-bootcamp
+# GoBarber
+
+**Aplicação desenvolvida durante o bootcamp**
